@@ -26,3 +26,8 @@ th, td {
     margin: 5px 10px;
     padding: 6px;
 }
+.warning {
+    color: rgb(228, 53, 53);
+    text-align: center;
+    list-style-type: upper-roman;
+ }
